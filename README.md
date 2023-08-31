@@ -3,11 +3,14 @@ Using ChatGPT to polish your academic paper. Still under development but works f
 
 The cost for one paper is roughly about $0.4 to $0.5 USD. Depends on length. You can run the support functions section then run the cost estimation function to get an estimate of the cost for free.
 
-To run it just open the paperPolisher.ipynb file and run it. You can also run it locally. 
-Copy your paper into the txt file in the repo.
-Then put your openai api key in the setup section.
-Run the required support functions.
-Then change your file name in the Run The Polisher section and run it. Then you should get a polished paper
+
+Steps to run it:
+1. Open the paperPolisher.ipynb file in Colab
+2. Put your origional paper into the repo as txt file (Copy & Paste into txt works)
+3. Put your openai api key in the setup section.
+4. Change filename = 'YOUR_ORIGIONAL_PAPER_FILE_NAME.txt'
+5. Run the required support functions.
+6. Then run the last section you should get a polished paper as 'polished_YOUR_ORIGIONAL_PAPER_FILE_NAME.txt'
 
 <a href="https://colab.research.google.com/github/user074/paperPolisher/blob/main/paperPolisher.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
