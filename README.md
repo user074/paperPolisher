@@ -8,3 +8,7 @@ Copy your paper into the txt file in the repo.
 Then put your openai api key in the setup section.
 Run the required support functions.
 Then change your file name in the Run The Polisher section and run it. Then you should get a polished paper
+
+<a href="https://colab.research.google.com/github/user074/paperPolisher/blob/main/paperPolisher.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
